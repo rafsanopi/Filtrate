@@ -1,0 +1,1005 @@
+{
+  "Message": "Success",
+  "data": [
+    {
+      "title": "Movies and tv shows",
+      "data": [
+        {
+          "subtitle": "Food and Drink",
+          "subData": [
+            "Appetisers",
+            "Main Courses",
+            "Side Dishes",
+            "Salads",
+            "Soups",
+            "Sandwiches",
+            "Pasta and Noodles",
+            "Pizza",
+            "Seafood",
+            "Desserts",
+            "Snacks",
+            "Breakfast items",
+            "Baked Goods",
+            "Grilled Foods",
+            "Vegetarian/Vegan dishes",
+            "Water",
+            "Soft Drinks",
+            "Juices",
+            "Coffee",
+            "Tea",
+            "Alcoholic Beverages",
+            "Smoothies",
+            "Milkshakes",
+            "Energy Drinks",
+            "Mocktails",
+            "Iced Beverages",
+            "Sports Drinks",
+            "Herbal Infusions",
+            "Sparkling Water",
+            "Hot Chocolate"
+          ]
+        },
+        {
+          "subtitle": "Travel and Adventure",
+          "subData": [
+            "Outdoor adventures",
+            "Cultural experiences",
+            "Wildlife encounters",
+            "Water sports",
+            "Extreme sports",
+            "Road trips",
+            "Eco-tourism",
+            "Adventure tours",
+            "Cultural immersion",
+            "Wellness retreats",
+            "Expedition cruises",
+            "Mountaineering",
+            "Adventure photography",
+            "Winter sports",
+            "Volunteerism"
+          ]
+        },
+        {
+          "subtitle": "Fashion and Style",
+          "subData": [
+            "Period costumes",
+            "High fashion",
+            "Character wardrobe",
+            "Costume design",
+            "Fashion shows",
+            "Transformation sequences",
+            "Iconic outfits",
+            "Fashion capitals",
+            "Fashion contemporary",
+            "Inspirational style"
+          ]
+        },
+        {
+          "subtitle": "Health and Wellness",
+          "subData": [
+            "Fitness and exercise",
+            "Nutrition and diet",
+            "Mental health",
+            "Self-care practices",
+            "Recovery and rehabilitation",
+            "Wellness retreats",
+            "Holistic health",
+            "Lifestyle changes",
+            "Health education",
+            "Inspirational stories"
+          ]
+        },
+        {
+          "subtitle": "Technology and Gadgets",
+          "subData": [
+            "Futuristic technology",
+            "Sci-Fi gadgets",
+            "Cybernetics and augmentation",
+            "Hacking and cybersecurity",
+            "Surveillance and privacy",
+            "Robotics and automation",
+            "Transportation technology",
+            "Nanotechnology",
+            "Wearable technology",
+            "Dystopian technology"
+          ]
+        },
+        {
+          "subtitle": "Arts and Entertainment",
+          "subData": [
+            "Performing arts",
+            "Visual arts",
+            "Film and cinema",
+            "Literature and writing",
+            "Music and musicians",
+            "Fashion design",
+            "Comedy and improvisation",
+            "Media and journalism",
+            "Festivals and celebrations",
+            "Historical and cultural health"
+          ]
+        },
+        {
+          "subtitle": "Sports and Fitness",
+          "subData": [
+            "Training montages",
+            "Sports team speeches",
+            "Game or competition scenes",
+            "Underdog moments",
+            "Injury and recovery",
+            "Victory celebrations",
+            "Defeat and resilience",
+            "Training camps and workouts",
+            "Mentorship and guidance",
+            "Personal growth and transformation",
+            "Football",
+            "Basketball",
+            "Cricket",
+            "Tennis",
+            "Golf",
+            "Rugby",
+            "American football",
+            "Baseball",
+            "Hockey",
+            "Athletics",
+            "Swimming",
+            "Cycling",
+            "Boxing",
+            "Martial arts",
+            "Gymnastics"
+          ]
+        },
+        {
+          "subtitle": "Home and Garden",
+          "subData": [
+            "Dream homes",
+            "Cozy cottages",
+            "Home renovation",
+            "Urban apartments",
+            "Family homes",
+            "Haunted houses",
+            "Architectural marvels"
+          ]
+        },
+
+        {
+          "subtitle": "Career and Education",
+          "subData": [
+            "Academic institutions",
+            "Teacher or professor stories",
+            "Student life",
+            "Professional training",
+            "Career advancement",
+            "Workplace dynamics",
+            "Creative industries",
+            "STEM fields",
+            "Historical figures and inventors",
+            "Education reform"
+          ]
+        },
+        {
+          "subtitle": "Relationships and Dating",
+          "subData": [
+            "First love and teen romance",
+            "Drama and tragedy",
+            "Forbidden love",
+            "Second chances and rekindled romance",
+            "Long-distance relationships",
+            "Online dating and modern romance",
+            "Arranged marriages and cultural norms",
+            "Unconventional romance",
+            "Bombshell crush",
+            "Lesbian couple",
+            "Gay couple",
+            "Straight couple",
+            "Non-binary couple",
+            "Disability in romance"
+          ]
+        },
+        {
+          "subtitle": "Family and friends",
+          "subData": [
+            "Family dramas",
+            "Coming-of-age stories",
+            "Father-son relationships",
+            "Mother-son relationships",
+            "Father-daughter relationships",
+            "Mother-daughter relationships",
+            "Parent-child relationships",
+            "Sibling relationships",
+            "Intergenerational connections",
+            "Found families",
+            "Friendship bonds",
+            "Friendship group of two",
+            "Friendship group of three",
+            "Friendship group of four",
+            "Friendship group of five",
+            "Friendship group of six",
+            "Friendship group of seven or more",
+            "Loss and grief",
+            "Reconciliation and forgiveness"
+          ]
+        },
+        {
+          "subtitle": "Finance and Money Management",
+          "subData": [
+            "Rags to riches",
+            "Wealth and luxury",
+            "Financial struggles",
+            "White-collar crime",
+            "Entrepreneurship",
+            "Stock market and Wall Street",
+            "Personal finance and budget",
+            "Generational wealth",
+            "Financial education and literacy",
+            "Philanthropy and social impact"
+          ]
+        },
+        {
+          "subtitle": "Crime",
+          "subData": [
+            "Organised crime",
+            "Heist/caper",
+            "Serial killers",
+            "Gang violence",
+            "True crime",
+            "Political corruption",
+            "Cybercrime",
+            "Drug trade"
+          ]
+        },
+        {
+          "subtitle": "Hobbies and Interests",
+          "subData": [
+            "Sports and athletics",
+            "Music and performance arts",
+            "Outdoor activities and adventure",
+            "Gaming and esports",
+            "Cooking and culinary arts",
+            "Travel and exploration",
+            "Arts and crafts",
+            "Literature and writing",
+            "Collecting and memorabilia",
+            "Skincare and beauty"
+          ]
+        },
+        {
+          "subtitle": "Self-Improvement and Personal Growth",
+          "subData": [
+            "Transformation and self discovery",
+            "Overcoming adversity",
+            "Empowerment and confidence",
+            "Goal setting and achievement",
+            "Mental health and wellness",
+            "Spirituality and inner peace",
+            "Education and life-long learning",
+            "Relationship development",
+            "Leadership development",
+            "Self reflection and growth mindset",
+            "Mentorship",
+            "Mood board",
+            "Montages"
+          ]
+        },
+        {
+          "subtitle": "Pets and Animals",
+          "subData": [
+            "Domestic pets",
+            "Adventure companions",
+            "Animal sidekicks",
+            "Talking animals",
+            "Wildlife and nature",
+            "Animal protagonists",
+            "Fantasy creatures",
+            "Animal comedies",
+            "Animal biopics",
+            "Animal-human relationships",
+            "Dogs",
+            "Cats",
+            "Farm animals",
+            "Savannah animals",
+            "Equestrian events",
+            "Dog racing",
+            "Bullfighting",
+            "Horse polo",
+            "Rodeo",
+            "Cockfighting",
+            "Falconry"
+          ]
+        },
+        {
+          "subtitle": "Environment and Sustainability",
+          "subData": [
+            "Climate change",
+            "Biodiversity conservation",
+            "Environmental pollution",
+            "Sustainable agriculture",
+            "Renewable energy",
+            "Waste management",
+            "Ocean conservation",
+            "Environmental justice",
+            "Urban sustainability",
+            "Community action",
+            "Organic items and food"
+          ]
+        },
+        {
+          "subtitle": "Terrestrial environments",
+          "subData": [
+            "Aquatic environments",
+            "Marine environments",
+            "Freshwater environments",
+            "Polar environments",
+            "Mountainous environments",
+            "Urban environments",
+            "Suburban environments",
+            "Rural environments",
+            "Tropical environments"
+          ]
+        },
+        {
+          "subtitle": "History and Culture",
+          "subData": [
+            "Prehistoric period",
+            "Ancient civilisations",
+            "Medieval times",
+            "Renaissance and enlightenment",
+            "Colonialism and imperialism",
+            "Industrial Revolution",
+            "World wars",
+            "Cold War era",
+            "Civil rights movement",
+            "Cultural revolutions",
+            "Contemporary history",
+            "Historical royalty",
+            "Tudor monarchies",
+            "Stuart monarchies",
+            "Hanoverian monarchies"
+          ]
+        },
+        {
+          "subtitle": "Spirituality and Religion",
+          "subData": [
+            "Monotheistic religions",
+            "Polytheistic religions",
+            "Eastern philosophies",
+            "Indigenous belief systems",
+            "New age and esoteric practices",
+            "Religious rituals and ceremonies",
+            "Spiritual journeys",
+            "Interfaith dialogue and cooperation",
+            "Secular spirituality",
+            "Critiques of religion"
+          ]
+        },
+        {
+          "subtitle": "Automotive and Transportation",
+          "subData": [
+            "Car races",
+            "Road trips",
+            "Classic cars and vintage vehicles",
+            "Transportation infrastructure",
+            "Futuristic vehicles",
+            "Trucking and logistics",
+            "Aviation and air travel",
+            "Maritime adventures",
+            "Public transit and commuting"
+          ]
+        },
+        {
+          "subtitle": "Politics and Current Affairs",
+          "subData": [
+            "Political drama",
+            "Historical events",
+            "Political satire",
+            "Election campaigns",
+            "Social and political movement",
+            "International relations",
+            "Political corruption and scandals",
+            "Media and politics",
+            "Leading lady",
+            "Leading man",
+            "Inspirational main character"
+          ]
+        },
+        {
+          "subtitle": "Action scenes",
+          "subData": [
+            "Car chases",
+            "Fight scenes",
+            "Explosions",
+            "Shoot outs",
+            "Stunt performances",
+            "Chase sequences",
+            "Rescue missions",
+            "Underwater action",
+            "Hand-to-hand combat"
+          ]
+        },
+        {
+          "subtitle": "Adventure scenes",
+          "subData": [
+            "High-speed chase sequences",
+            "Explosive battles",
+            "Stunt fights",
+            "Heroic rescues",
+            "Showdowns and confrontations",
+            "Infiltration and espionage",
+            "Explosive climaxes",
+            "Escape and evasion"
+          ]
+        },
+        {
+          "subtitle": "Comedy scenes",
+          "subData": [
+            "Physical comedy",
+            "Witty dialogue",
+            "Situational comedy",
+            "Comedic performances",
+            "Running gags",
+            "Fish-out-of-water scenarios",
+            "Character contrasts",
+            "Comedic set pieces",
+            "Breaking the fourth wall",
+            "Absurd humour"
+          ]
+        },
+        {
+          "subtitle": "Drama scenes",
+          "subData": [
+            "Emotional confrontations",
+            "Intense dialogue exchanges",
+            "Flashbacks revealing backstory",
+            "Quiet moments of reflection",
+            "Tense family gatherings",
+            "Heartfelt confessions",
+            "Character struggling with inner demons",
+            "Powerful monologues",
+            "Life-changing decisions",
+            "Dramatic revelations"
+          ]
+        },
+        {
+          "subtitle": "Horror scenes",
+          "subData": [
+            "Jump scares",
+            "Creepy atmospheres",
+            "Haunted houses",
+            "Characters exploring dark and eerie locations",
+            "Supernatural occurrences",
+            "Suspenseful buildup",
+            "Terrifying chase sequences",
+            "Gore and graphic violence",
+            "Characters investigating mysterious phenomena",
+            "Final confrontations with the antagonist"
+          ]
+        },
+        {
+          "subtitle": "Science Fiction scenes",
+          "subData": [
+            "Futuristic cityscapes",
+            "Spaceship or spacecraft travel",
+            "Alien encounters",
+            "Exploration of distant planets or galaxies",
+            "Time travel sequences",
+            "Artificial intelligence and robots",
+            "Post-apocalyptic landscapes",
+            "Cybernetic enhancements or modifications",
+            "Interstellar warfare or conflicts"
+          ]
+        },
+        {
+          "subtitle": "Fantasy scenes",
+          "subData": [
+            "Magical realms or enchanted forests",
+            "Mythical creatures such as dragons, unicorns, or elves",
+            "Epic battles between heroes and villains",
+            "Quests to retrieve magical artifacts or save kingdoms",
+            "Transformation sequences involving shape-shifting characters",
+            "Portals to other worlds or dimensions",
+            "Wandering heroes encountering mysterious wizards or sorcerers",
+            "Prophecies and chosen ones destined to save the world",
+            "Flying on mythical creatures or magical transportation",
+            "Castles or fortresses inhabited by royalty or powerful beings"
+          ]
+        },
+        {
+          "subtitle": "Mystery scenes",
+          "subData": [
+            "Crime scenes with detectives investigating clues",
+            "Interrogations of suspects",
+            "Red herrings and misleading clues",
+            "Flashbacks revealing crucial information",
+            "Plot twists and unexpected revelations",
+            "Confrontations between the detective and the culprit",
+            "Gathering of suspects for final revelations",
+            "Suspenseful chases or pursuits",
+            "Solving of cryptic puzzles or codes",
+            "Unveiling of the true identity of the culprit"
+          ]
+        },
+        {
+          "subtitle": "Thriller scenes",
+          "subData": [
+            "High-stakes chase sequences",
+            "Suspenseful stalking or pursuit scenes",
+            "Tense hostage situations",
+            "Narrow escapes from danger",
+            "Confrontations between protagonist and antagonist",
+            "Race against time scenarios",
+            "Unpredictable plot twists",
+            "Characters navigating through tense and dangerous environments",
+            "Psychological mind games between characters",
+            "Climactic showdowns or final confrontations"
+          ]
+        },
+        {
+          "subtitle": "Romance scenes",
+          "subData": [
+            "Meet-cute moments between the main characters",
+            "Romantic dates or outings",
+            "Passionate kisses or intimate moments",
+            "Declarations of love",
+            "Heartfelt conversations or confessions",
+            "Romantic gestures such as giving flowers or gifts",
+            "Emotional reunions after a separation",
+            "Conflict or misunderstandings between lovers",
+            "Romantic montages showing the progression of the relationship",
+            "Happy endings or declarations of commitment"
+          ]
+        },
+        {
+          "subtitle": "Animation scenes",
+          "subData": [
+            "Colourful and vibrant animated worlds",
+            "Quirky and expressive character designs",
+            "Lively musical numbers or dance sequences",
+            "Magical or fantastical elements",
+            "Heartwarming friendships or familial bonds",
+            "Adventures and quests undertaken by the main characters",
+            "Creative and imaginative settings",
+            "Humorous and comedic moments",
+            "Emotional and touching scenes",
+            "Action-packed and exciting sequences"
+          ]
+        },
+        {
+          "subtitle": "Documentary scenes",
+          "subData": [
+            "Interviews with experts, witnesses, or subjects",
+            "Archival footage or photographs to provide context or historical background",
+            "Voice-over narration to guide the audience through the documentary's themes or story",
+            "On-location footage to immerse viewers in the subject matter",
+            "Reenactments or dramatizations to illustrate key events or concepts",
+            "Infographics or animations to visualize data or complex information",
+            "Footage of real-life events or phenomena",
+            "Behind-the-scenes glimpses into the making of the documentary itself",
+            "Personal testimonials or anecdotes from individuals involved in the subject matter",
+            "Exploration of controversial or thought-provoking topics through interviews and analysis"
+          ]
+        },
+        {
+          "subtitle": "Musical scenes",
+          "subData": [
+            "Musical numbers featuring singing and dancing",
+            "Elaborate choreography and synchronized movements",
+            "Solo performances showcasing the talents of the lead actors",
+            "Ensemble numbers involving multiple characters or dancers",
+            "Rehearsal or audition sequences",
+            "Emotional ballads expressing characters' feelings or motivations",
+            "Show-stopping performances with extravagant costumes and sets",
+            "Dance sequences that advance the plot or highlight character development",
+            "Musical montages depicting the passage of time or character growth",
+            "Finale numbers bringing the story to a satisfying conclusion with a grand finale"
+          ]
+        },
+        {
+          "subtitle": "Western scenes",
+          "subData": [
+            "Showdowns or gunfights in dusty streets or saloons",
+            "Horseback riding through rugged landscapes",
+            "Barroom brawls or fistfights",
+            "Campfire scenes with cowboys cooking and sharing stories",
+            "High-speed chases on horseback or in wagons",
+            "Tense standoffs between lawmen and outlaws",
+            "Dramatic confrontations between rival factions or individuals",
+            "Dusty towns bustling with activity or deserted in anticipation of conflict",
+            "Stagecoach robberies or train heists",
+            "Heroic rescues or acts of bravery in the face of danger"
+          ]
+        },
+        {
+          "subtitle": "War scenes",
+          "subData": [
+            "Intense battle sequences featuring gunfire, explosions, and chaos",
+            "Soldiers preparing for combat, including gearing up and briefing session",
+            "Emotional farewells between soldiers and their loved ones before deployment",
+            "Harrowing scenes of soldiers navigating through hostile territories",
+            "Tense moments of suspense during ambushes or sniper attacks",
+            "Comradeship and camaraderie among soldiers in the trenches or on the battlefield",
+            "Scenes depicting the toll of war on civilians caught in the crossfire",
+            "Courageous acts of heroism and sacrifice on the battlefield",
+            "Gritty scenes of soldiers grappling with the physical and psychological wounds of war",
+            "Dramatic moments of victory, defeat, or ceasefire, shaping the outcome of the conflict"
+          ]
+        },
+        {
+          "subtitle": "Historical scenes",
+          "subData": [
+            "Period-specific settings, costumes, and props to accurately depict the time period",
+            "Important historical events or milestones portrayed with dramatic flair",
+            "Characters interacting with notable historical figures or leaders",
+            "Battle sequences depicting key military conflicts or wars from history",
+            "Intrigue and political maneuvering within royal courts or governing bodies",
+            "Social unrest or revolutions depicted through protests, riots, or uprisings",
+            "Exploration and discovery of new lands or civilizations",
+            "Cultural and societal norms of the time period showcased through everyday life scenes",
+            "Personal struggles and triumphs of historical figures or ordinary people during significant moments in history",
+            "Epilogues or postscripts providing context or historical information about the events portrayed in the film"
+          ]
+        },
+        {
+          "subtitle": "Crime scenes",
+          "subData": [
+            "Heists or robberies with meticulous planning and execution",
+            "Crime scenes being investigated by detectives or law enforcement",
+            "Interrogations of suspects in police stations or interrogation rooms",
+            "Undercover operations or sting operations to catch criminals in the act",
+            "Car chases through city streets or highways",
+            "Deals or negotiations between crime bosses or underworld figures",
+            "Betrayals and double-crosses among criminal associates",
+            "Stakeouts or surveillance operations to gather evidence on suspects",
+            "Courtroom dramas featuring legal proceedings and trials",
+            "Escapes from prisons or detention facilities, often involving daring plans or clever tactics"
+          ]
+        },
+        {
+          "subtitle": "Biographical scenes",
+          "subData": [
+            "Depiction of significant events from the subject's life",
+            "Flashbacks to key moments or formative experiences",
+            "Interviews with family members, friends, or colleagues of the subject",
+            "Transformative moments where the subject undergoes personal growth or change",
+            "Historical footage or photographs interwoven with reenactments",
+            "Milestone achievements or successes celebrated by the subject",
+            "Struggles and obstacles faced by the subject on their journey",
+            "Personal relationships explored, including friendships, romances, and conflicts",
+            "Reflection and introspection as the subject looks back on their life",
+            "Legacy and impact of the subject's actions or contributions explored in the film"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Music",
+      "data": [
+        {
+          "subtitle": "Pop",
+          "subData": [
+            "Dance-pop",
+            "Electro pop",
+            "Bubblegum pop",
+            "Power pop",
+            "Synth-pop",
+            "Indie pop",
+            "Tropical pop",
+            "Teen pop",
+            "Synthwave pop",
+            "Pop-rock"
+          ]
+        },
+        {
+          "subtitle": "Rock",
+          "subData": [
+            "Classic rock",
+            "Hard rock",
+            "Alternative rock",
+            "Punk rock",
+            "Grunge",
+            "Progressive rock",
+            "Blues rock",
+            "Psychedelic rock",
+            "Southern rock"
+          ]
+        },
+        {
+          "subtitle": "Hip hop/rap",
+          "subData": [
+            "Old school hip hop",
+            "Golden age hip hop",
+            "Gangsta rap",
+            "West coast hip hop",
+            "East coast hip hop",
+            "Trap music",
+            "Conscious hip hop",
+            "Mumble rap",
+            "Alternative hip hop",
+            "Drill music"
+          ]
+        },
+        {
+          "subtitle": "Jazz",
+          "subData": [
+            "Traditional jazz",
+            "Swing",
+            "Bebop",
+            "Cool jazz",
+            "Hard bop",
+            "Modal jazz",
+            "Free jazz",
+            "Fusion jazz",
+            "Latin jazz",
+            "Smooth jazz"
+          ]
+        },
+        {
+          "subtitle": "Classical",
+          "subData": [
+            "Baroque",
+            "Classical period",
+            "Romantic period classical",
+            "Impressionist classical",
+            "20th century and contemporary classical",
+            "Chamber classical",
+            "Opera",
+            "Symphonic classical",
+            "Solo piano classical",
+            "Sacred classical"
+          ]
+        },
+        {
+          "subtitle": "Country",
+          "subData": [
+            "Traditional country",
+            "Honky tonk country",
+            "Outlaw country",
+            "Bluegrass country",
+            "Country-pop",
+            "Neotraditional country",
+            "Country rock",
+            "Alt-country",
+            "Country gospel",
+            "Countrypolitan"
+          ]
+        },
+        {
+          "subtitle": "Electric/dance",
+          "subData": [
+            "House",
+            "Techno",
+            "Trance",
+            "Electro",
+            "Dubstep",
+            "Drum and bass",
+            "Electronic dance",
+            "Future bass",
+            "Trap"
+          ]
+        },
+        {
+          "subtitle": "Reggae",
+          "subData": [
+            "Roots reggae",
+            "Dub reggae",
+            "Dancehall reggae",
+            "Lovers rock reggae",
+            "Rocksteady reggae",
+            "Ska reggae",
+            "Raggamuffin reggae",
+            "Conscious reggae",
+            "Nyabinghi reggae"
+          ]
+        },
+        {
+          "subtitle": "Folk",
+          "subData": [
+            "Traditional folk",
+            "Ballad folk",
+            "Protest folk",
+            "Sea shanties",
+            "Spiritual folk",
+            "Bluegrass folk",
+            "Country folk",
+            "Celtic folk",
+            "Indigenous folk",
+            "Contemporary folk"
+          ]
+        },
+        {
+          "subtitle": "Indie",
+          "subData": [
+            "Indie rock",
+            "Indie folk",
+            "Indie electronic",
+            "Shoegaze indie",
+            "Dream pop",
+            "Post-punk revival",
+            "Garage rock",
+            "Experimental indie"
+          ]
+        },
+        {
+          "subtitle": "Metal",
+          "subData": [
+            "Heavy metal",
+            "Thrash metal",
+            "Death metal",
+            "Black metal",
+            "Power metal",
+            "Doom metal",
+            "Progressive metal",
+            "Metalcore",
+            "Nu metal",
+            "Symphonic metal"
+          ]
+        },
+        {
+          "subtitle": "Punk",
+          "subData": [
+            "Hardcore punk",
+            "Pop punk",
+            "Street punk",
+            "Anarcho-punk",
+            "Skate punk",
+            "Post-punk",
+            "Ska punk",
+            "Crust punk",
+            "Folk punk",
+            "Celtic punk"
+          ]
+        },
+        {
+          "subtitle": "Blues",
+          "subData": [
+            "Delta blues",
+            "Chicago blues",
+            "Texas blues",
+            "Piedmont blues",
+            "Jump blues",
+            "British blues",
+            "Electric blues",
+            "Soul blues",
+            "Contemporary blues",
+            "Swamp blues"
+          ]
+        },
+        {
+          "subtitle": "Gospel",
+          "subData": [
+            "Dancehall gospel",
+            "Traditional gospel",
+            "Contemporary gospel",
+            "Southern gospel",
+            "Black gospel",
+            "Bluegrass gospel",
+            "Country gospel",
+            "Praise and worship gospel",
+            "Quartet gospel",
+            "Inspirational gospel",
+            "Gospel jazz"
+          ]
+        },
+        {
+          "subtitle": "Moods",
+          "subData": [
+            "Uplifting",
+            "Melancholic",
+            "Energetic",
+            "Relaxing",
+            "Romantic",
+            "Empowering",
+            "Reflective",
+            "Aggressive",
+            "Hopeful",
+            "Nostalgic",
+            "Anxious",
+            "Tranquil",
+            "Confident",
+            "Lonely",
+            "Motivational"
+          ]
+        },
+        {
+          "subtitle": "Theme-based categories",
+          "subData": [
+            "Love",
+            "Break-up",
+            "Party",
+            "Protest",
+            "Nature",
+            "Storytelling",
+            "Dance",
+            "Travel",
+            "Celebration",
+            "Friendship",
+            "Self discovery",
+            "Spiritual",
+            "Faith",
+            "Historical"
+          ]
+        },
+        {
+          "subtitle": "Time periods",
+          "subData": [
+            "Before 1930s",
+            "1940s",
+            "1950s",
+            "1960s",
+            "1970s",
+            "1980s",
+            "1990s",
+            "2000s",
+            "2010s",
+            "2020s",
+            "Current hits"
+          ]
+        },
+        {
+          "subtitle": "Cultural categories",
+          "subData": [
+            "Folk songs",
+            "World",
+            "Indigenous",
+            "Ethnic",
+            "Tribal",
+            "Regional",
+            "Cultural fusion",
+            "Traditional",
+            "Cultural revival",
+            "Immigrant"
+          ]
+        },
+        {
+          "subtitle": "Purpose based categories",
+          "subData": [
+            "Workout and exercise",
+            "Driving",
+            "Travel",
+            "Wedding",
+            "Party",
+            "Lullabies",
+            "Background and ambient",
+            "Studying",
+            "Focus",
+            "Meditation and yoga",
+            "Ceremonial",
+            "Therapeutic and healing"
+          ]
+        },
+        {
+          "subtitle": "Lyric-based categories",
+          "subData": [
+            "Verse-chorus",
+            "Verse-chorus-verse",
+            "Repeating verses, no chorus",
+            "Verse-pre-chorus-chorus",
+            "Bridge",
+            "Refrain",
+            "List structure",
+            "Free verse"
+          ]
+        },
+        {
+          "subtitle": "Instrumentation-based categories ",
+          "subData": [
+            "Guitar",
+            "Piano/keyboard",
+            "Drums/percussion",
+            "Bass guitar",
+            "Vocals",
+            "Violin",
+            "Cello",
+            "Flute",
+            "Saxophone",
+            "Trumpet",
+            "Clarinet",
+            "Synthesiser",
+            "Harp",
+            "Accordion",
+            "Mandolin"
+          ]
+        }
+      ]
+    }
+  ]
+}
